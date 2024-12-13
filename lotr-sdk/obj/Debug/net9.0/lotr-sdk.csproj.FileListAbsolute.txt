@@ -1,0 +1,14 @@
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/bin/Debug/net9.0/lotr-sdk
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/bin/Debug/net9.0/lotr-sdk.deps.json
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/bin/Debug/net9.0/lotr-sdk.runtimeconfig.json
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/bin/Debug/net9.0/lotr-sdk.dll
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/bin/Debug/net9.0/lotr-sdk.pdb
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.AssemblyInfoInputs.cache
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.AssemblyInfo.cs
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.csproj.CoreCompileInputs.cache
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.dll
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/refint/lotr-sdk.dll
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.pdb
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/lotr-sdk.genruntimeconfig.cache
+/Users/recruta/RiderProjects/lotr-sdk/lotr-sdk/obj/Debug/net9.0/ref/lotr-sdk.dll
